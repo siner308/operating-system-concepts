@@ -3,7 +3,7 @@
 
 Practice Exercises (10th edition)
 
-- [Chapter 1: Introduction](chapters/chapter1.md)
+- [Chapter 1: Introduction](Chapters/Chapter1.md)
 - Chapter 2: Operating-System Structures
 - Chapter 3: Processes
 - Chapter 4: Threads and Concurrency
