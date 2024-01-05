@@ -1,7 +1,8 @@
 repo_name: siner308/operating-system-concepts
 report_id: 62e19ac59ba27f7479ed8dae565211cf
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-15T10:26:26+00:00'
+timestamp: '2024-01-05T08:40:42+00:00'
 requested_by: siner308
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/siner308/operating-system-concepts
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,4 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/siner308/operating-system-concepts
   detection_source: Repo Metadata
